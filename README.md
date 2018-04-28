@@ -1,3 +1,5 @@
+# decimal is the correct .Net type to use for handling currency
+
 Console.WriteLine("Which type should be used for handling currency in .NET");
 
 double xDouble = 0.1;
